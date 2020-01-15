@@ -7,6 +7,8 @@ verify_ssl = true
 
 [packages]
 toolz = "*"
+flake8 = "*"
+pytest = "*"
 
 [requires]
 python_version = "3.7"
